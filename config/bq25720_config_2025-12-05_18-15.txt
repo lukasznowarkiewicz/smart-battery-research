@@ -1,0 +1,31 @@
+* Created: Sat Dec 06 18:15:34 CET 2025
+*
+* Format: Register Name  tab Character,\t  Hexadecimal register value.
+* Device: bq25720
+* BQZ Container: Charger_1_00-BQ25720.bqz
+*
+Charge Option 0	020E
+Charge Current	1340
+Max Charge Voltage	41A8
+OTG Voltage	09C4
+OTG Current	3C00
+Input Voltage	0000
+Min System Voltage	7B00
+IIN_HOST	6300
+Charger Status	0000
+Prochot Status	B880
+IIN_DPM	6300
+ADC VBUS and PSYS	0000
+ADC IBAT	0000
+ADC IIN and CMPIN	0000
+ADC VSYS and VBAT	0000
+Manufacture ID	0040
+Device ID	00E1
+Charge Option 1	3300
+Charge Option 2	00B7
+Charge Option 3	0434
+Prochot Option 0	4A81
+Prochot Option 1	41A0
+ADC Option	2000
+Charge Option 4	0048
+Vmin Active Protection	006C
